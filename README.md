@@ -9,7 +9,7 @@ Langkah pengerjaan secara umum :
 5. Cari data yang dibutuhkan,
 6. Masukkan ke dalam bentuk dataframe pandas
 7. Print/tampilkan dataframe tersebut
-8. 
+
 Masukkan ke dalam suatu fungsi yang bernama scrape_kompas()
 
 fungsi tanpa return, tapi hasilnya harus menampilkan berita-berita terpopuler
